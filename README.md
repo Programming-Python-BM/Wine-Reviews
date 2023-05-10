@@ -1,5 +1,4 @@
-# Wine-reviews-EDA
-Doing EDA on a Wine-reviews Dataset from Kaggle.
+Wine-reviews Dataset from Kaggle.
 
 Kaggle Dataset Link : https://www.kaggle.com/zynicide/wine-reviews
 
